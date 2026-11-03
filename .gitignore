@@ -1,0 +1,12 @@
+# Seuls les fichiers du projet ci-dessous sont publies.
+/*
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/notebooks/
+!/results/
+**/.ipynb_checkpoints/
+**/__pycache__/
+*.pth
+*.ckpt
+.env

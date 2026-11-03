@@ -1,0 +1,14 @@
+torch
+torchvision
+pytorch-lightning
+torchmetrics
+numpy
+pandas
+matplotlib
+opencv-python
+Pillow
+tqdm
+wandb
+captum
+scikit-image
+pytorch-bench
